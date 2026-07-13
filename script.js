@@ -1,0 +1,1 @@
+console.log('Julian Gaming website loaded successfully!');
